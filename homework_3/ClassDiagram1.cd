@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="homework_3.CGraphicsObject">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CGraphicsObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="homework_3.Tor">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAIAAQAAEAA=</HashCode>
+      <FileName>Tor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="homework_3.CPoint">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>CPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iName\\source\\repos\\OOP\\OOP\\OOP.csproj": {}
+    "C:\\Users\\iName\\source\\repos\\OOP\\homework_23\\homework_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iName\\source\\repos\\OOP\\OOP\\OOP.csproj": {
+    "C:\\Users\\iName\\source\\repos\\OOP\\homework_23\\homework_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iName\\source\\repos\\OOP\\OOP\\OOP.csproj",
-        "projectName": "OOP",
-        "projectPath": "C:\\Users\\iName\\source\\repos\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "C:\\Users\\iName\\source\\repos\\OOP\\homework_23\\homework_3.csproj",
+        "projectName": "homework_3",
+        "projectPath": "C:\\Users\\iName\\source\\repos\\OOP\\homework_23\\homework_3.csproj",
         "packagesPath": "C:\\Users\\iName\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iName\\source\\repos\\OOP\\OOP\\obj\\",
+        "outputPath": "C:\\Users\\iName\\source\\repos\\OOP\\homework_23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iName\\AppData\\Roaming\\NuGet\\NuGet.Config",
