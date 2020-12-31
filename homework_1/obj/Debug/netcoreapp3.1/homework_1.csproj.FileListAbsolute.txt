@@ -1,0 +1,13 @@
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.exe
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.deps.json
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.runtimeconfig.json
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.runtimeconfig.dev.json
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.dll
+C:\Users\iName\source\repos\OOP\homework_1\bin\Debug\netcoreapp3.1\homework_1.pdb
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.AssemblyInfoInputs.cache
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.AssemblyInfo.cs
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.csproj.CoreCompileInputs.cache
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.dll
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.pdb
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.genruntimeconfig.cache
+C:\Users\iName\source\repos\OOP\homework_1\obj\Debug\netcoreapp3.1\homework_1.csprojAssemblyReference.cache
