@@ -1,0 +1,10 @@
+C:\Users\iName\source\repos\OOP\homework_4\bin\Debug\homework_4.exe.config
+C:\Users\iName\source\repos\OOP\homework_4\bin\Debug\homework_4.exe
+C:\Users\iName\source\repos\OOP\homework_4\bin\Debug\homework_4.pdb
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.csprojAssemblyReference.cache
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.Form1.resources
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.Properties.Resources.resources
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.csproj.GenerateResource.cache
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.csproj.CoreCompileInputs.cache
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.exe
+C:\Users\iName\source\repos\OOP\homework_4\obj\Debug\homework_4.pdb
