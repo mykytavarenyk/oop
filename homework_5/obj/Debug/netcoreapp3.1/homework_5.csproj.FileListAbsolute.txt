@@ -1,0 +1,13 @@
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.exe
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.deps.json
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.runtimeconfig.json
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.runtimeconfig.dev.json
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.dll
+C:\Users\iName\source\repos\OOP\homework_5\bin\Debug\netcoreapp3.1\homework_5.pdb
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.AssemblyInfoInputs.cache
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.AssemblyInfo.cs
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.csproj.CoreCompileInputs.cache
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.dll
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.pdb
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.genruntimeconfig.cache
+C:\Users\iName\source\repos\OOP\homework_5\obj\Debug\netcoreapp3.1\homework_5.csprojAssemblyReference.cache

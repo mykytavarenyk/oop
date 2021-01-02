@@ -38,10 +38,7 @@ namespace homework_4
 
         public override void Draw(Graphics graphics)
         {
-            // using (Pen pen = new Pen(Color.Black))
-            //{
             graphics.DrawEllipse(new Pen(Color.Black), new Rectangle(point.X, point.Y, (int)A, (int)B));
-            //}
         }
 
         public double B //вторая полуось эллипса
